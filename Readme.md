@@ -1,1 +1,1 @@
-Olá, esse é meu primeiro projeto git!
+Olá, esses são os meus primeiros passos aprendendo a usar as plataformas Git e Github!
